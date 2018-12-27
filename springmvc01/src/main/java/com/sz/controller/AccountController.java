@@ -20,7 +20,12 @@ public class AccountController {
     @Autowired
     private AccountService accountService;
 
-    /*我怎么这么好看*/
+    /*我怎么这么好看
+    * 我怎么这么好看啊!!!!!
+    *
+    *
+    *
+    * */
 
     @RequestMapping("/login")
     public String login(Account account, Model model, HttpSession session){
