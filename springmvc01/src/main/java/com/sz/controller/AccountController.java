@@ -16,7 +16,7 @@ import java.util.Map;
 @RequestMapping("/account")
 public class AccountController {
 
-    /*sssssssssssss*/
+    /*sssssssss*/
 
     @Autowired
     private AccountService accountService;
