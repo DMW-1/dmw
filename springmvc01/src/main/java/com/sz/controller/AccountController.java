@@ -1,6 +1,5 @@
 package com.sz.controller;
 
-import com.sz.constant.StatusCodeConstant;
 import com.sz.pojo.Account;
 import com.sz.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,8 +21,6 @@ public class AccountController {
 
     /*我怎么这么好看
     * 我怎么这么好看啊!!!!!
-    *
-    *lalal
     *
     * */
 
