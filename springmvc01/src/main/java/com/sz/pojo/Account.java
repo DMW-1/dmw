@@ -4,12 +4,11 @@ import java.util.List;
 
 public class Account {
 
-    //id
+    //测试数据
     private Long id;
-    //sdfdsfsdfsf
+
     private String cardNo;
-    //fgfdfd
-    //fgfd
+
     private String password;
 
     private Double balance;
